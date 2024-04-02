@@ -1,0 +1,1 @@
+This script will load the 20 Newsgroups dataset, split it into training and testing sets, build a text classification model using a TF-IDF vectorizer and a Naive Bayes classifier, train the model, make predictions on the test data, and finally print out the classification report which includes precision, recall, F1-score, and support for each class.
